@@ -10,5 +10,6 @@ public class HelloGit {
         System.out.println("我在DEV修复了一个BUG");
         System.out.println("主干添加");
         System.out.println("在线编辑");
+        System.out.println("克隆后增加的第一行代码");
     }
 }
